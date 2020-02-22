@@ -7194,9 +7194,6 @@
 
 -[@zshutosk](https://github.com/zshutosk/)
 
-<<<<<<< HEAD
--[@ziaullahkhan545](https://github.com/zero-to-mastery)
-=======
 -[@mjbh831](https://github.com/mjbh831/)
 
 -[@mirkoweb](https://github.com/mirkoweb)
