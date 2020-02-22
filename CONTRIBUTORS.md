@@ -54,8 +54,6 @@
 
 -[@EyalCode](https://github.com/EyalCode)
 
-
-
 -[@lgearen0528](https://github.com/lgearen0528)
 
 -[@moeez96](https://github.com/moeez96)
@@ -7172,6 +7170,8 @@
 
 -[@lucasdellasala](https://github.com/lucasdellasala/)
 
+-[@jgoad92](https://github.com/jgoad92/)
+
 -[@razorlegacy](https://github.com/razorlegacy/)
 
 -[@demealer](https://github.com/Demealer)
@@ -7194,4 +7194,50 @@
 
 -[@zshutosk](https://github.com/zshutosk/)
 
+<<<<<<< HEAD
 -[@ziaullahkhan545](https://github.com/zero-to-mastery)
+=======
+-[@mjbh831](https://github.com/mjbh831/)
+
+-[@mirkoweb](https://github.com/mirkoweb)
+
+-[@Khwaniiz](https://github.com/khwaniiz/)
+
+-[@bhupeshk3014](https://github.com/bhupeshk3014)
+
+-[@chromeBanana](https://github.com/chromebanana)
+
+-[@lele-sy](https://github.com/lele-sy/)
+
+-[@burak-selvi](https://github.com/burak-selvi/)
+
+-[@ziaullahkhan545](https://github.com/ziaullahkhan545)
+
+-[@stanluxembourg](https://github.com/stanluxembourg)
+
+-[@Bolmehag](https://github.com/Bolmehag)
+
+-[@adeshina9521](https://github.com/adeshina9521/)
+
+-[@YogeshThangavel](https://github.com/YogeshThangavel)
+
+-[@jomahay](https://github.com/jomahay/)
+
+-[@camposcristianeze](https://github.com/camposcristianeze)
+
+-[@frostillicus](https://github.com/frostillicus)
+
+-[@LHY-iS-Learning](https://github.com/LHY-iS-Learning)
+
+-[@AlexGioffDev](https://github.com/AlexGioffDev)
+
+-[@mefaba](https://github.com/mefaba)
+
+-[@rgtm](https://github.com/rgtm/)
+
+-[@Fab1ed](https://github.com/Fab1ed)
+
+-[@flofin](https://github.com/flofin)
+
+-[@Dobaizsolt97](https://github.com/Dobaizsolt97)
+
